@@ -16,4 +16,12 @@ Docker Tinkerer Extraordinaire
 
 # Sobre o Livro
  
-A proposta deste livro é ajudá-lo a construir ambientes utilizando containers com a ferramenta que está revolucionando as empresas de tecnologia  ao redor do mundo: vamos aprender e brincar bastante com o sensacional  Docker!  De maneira leve e totalmente prática, vamos aprender desde o que é o  Docker até a criação de um cluster Docker com diversos containers em exe-  cução! Sempre de forma prática, vamos abordar temas importantes para  que consiga administrar ambientes que utilizam ou pretendam utilizar o  Docker.  Inclusive, vamos aprender a montar dockerfiles personalizados para  construção de imagens de containers, além de conhecer como melhor  administrá-las.  Também veremos na prática como utilizar o Docker Machine para cri-  ação de hosts Docker, seja local ou na nuvem. Vamos criar um cluster utili-  zando o Swarm e aprender como escalar o nosso ambiente através do  Compose.  Nesta segunda edição adicionamos muitas novidades, como o Docker  Secret e o Docker Stack, e atualizamos praticamente todo o restante do  livro, visando torná-lo super atual e didático. Adicionamos mais exemplos  práticos, para que sua experiência possa ser ainda mais agradável e provei-  tosa.
+A proposta deste livro é ajudá-lo a construir ambientes utilizando containers com a ferramenta que está revolucionando as empresas de tecnologia ao redor do mundo: vamos aprender e brincar bastante com o sensacional Docker!
+
+De maneira leve e totalmente prática, vamos aprender desde o que é o Docker até a criação de um cluster Docker com diversos containers em execução! Sempre de forma prática, vamos abordar temas importantes para que consiga administrar ambientes que utilizam ou pretendam utilizar o Docker.
+
+Inclusive, vamos aprender a montar dockerfiles personalizados para construção de imagens de containers, além de conhecer como melhor administrá-las.
+
+Também veremos na prática como utilizar o Docker Machine para criação de hosts Docker, seja local ou na nuvem. Vamos criar um cluster utilizando o Swarm e aprender como escalar o nosso ambiente através do Compose.
+
+Nesta segunda edição adicionamos muitas novidades, como o 'docker secret' e o 'docker stack', e atualizamos praticamente todo o restante do livro, visando torna-lo super atual e didático. Adicionamos mais exemplos práticos, para que sua experiência possa ser ainda mais agradável e proveitosa.
