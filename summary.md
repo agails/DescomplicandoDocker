@@ -2,7 +2,7 @@
 
 ### Sobre
 
-* [Proposta do livro](README.md)
+* [Proposta do livro](chapters/preface_about.md)
 
 ### Capítulos
 
