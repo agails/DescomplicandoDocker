@@ -2,38 +2,15 @@
 
 # Prefácio
 
-If you are a developer, you probably have heard about Docker by now:
-Docker is the ideal platform to run applications in containers. Fine,
-but what are those containers? Containers are a lightweight
-virtualization technique providing us with lots of possibilities: thanks
-to them, we can ship applications faster; we can easily implement CI/CD
-(continuous integration and continuous delivery); we can set up
-development environments faster than ever; we can ensure parity between
-those development environments and our production servers; and much
-more. If you write code, if you deploy code, if you operate code, then I
-promise that containers are going to make your life easier.
+Se você é um desenvolvedor, provavelmente já ouviu falar sobre o Docker: o Docker é a plataforma ideal para executar aplicativos em contêineres. Tudo bem, mas o que são esses recipientes? Os contêineres são uma técnica de virtualização leve que nos fornece muitas possibilidades: graças a eles, podemos enviar aplicativos com mais rapidez; podemos facilmente implementar CI / CD (integração contínua e entrega contínua); podemos configurar ambientes de desenvolvimento mais rápido do que nunca; podemos garantir a paridade entre esses ambientes de desenvolvimento e nossos servidores de produção; e muito mais. Se você escrever código, se implantar código, se operar código, prometo que os contêineres tornarão sua vida mais fácil. 
 
-But containers have been around for *decades*, and Docker was only
-released in 2013. So what's the big deal? Why is everybody so excited
-about Docker, if the technology behind it is more than ten years old?
+Mas os contêineres já existem há décadas e o Docker foi lançado apenas em 2013. Qual é o problema? Por que todo mundo está tão animado com o Docker, se a tecnologia por trás dele tem mais de dez anos? 
 
-Because the main innovation of Docker is not the technology. The main
-innovation of Docker is to make this technology available to every
-developer and sysadmin, very easily, without having to spend years of
-practice to become an expert, and without requiring to develop tons of
-custom tools.
+Porque a principal inovação do Docker não é a tecnologia. A principal inovação do Docker é fazer com que isso tecnologia disponível para cada desenvolvedor e administrador de sistema, com muita facilidade, sem ter que gastar anos de prática para se tornar um especialista e sem a necessidade de desenvolver toneladas de ferramentas personalizadas. 
 
-I will share a secret with you: the really important thing is not Docker
-and containers. What is really important is to improve the quality of
-our software, reduce our development and deployment costs, release
-better, more reliable code, faster. It turns out that Docker is an
-insanely efficient way to achieve those goals. That's why it is so
-popular.
+Vou compartilhar um segredo com você: o que realmente importa não é o Docker e os contêineres. O que é realmente importante é melhorar a qualidade de nosso software, reduzir nossos custos de desenvolvimento e implantação, lançar um código melhor, mais confiável e mais rápido. Acontece que o Docker é uma maneira insanamente eficiente de atingir esses objetivos. É por isso que é tão popular. 
 
-This book will teach you all you need to know to get started with
-Docker, and use it to build, ship, and run your applications. It will be
-your guide in the world of containers, and on the path to ship code
-better than you ever did before.
+Este livro ensinará tudo o que você precisa saber para começar a usar o Docker e usá-lo para criar, enviar e executar seus aplicativos. Ele será o seu guia no mundo dos contêineres e no caminho para enviar o código melhor do que você já fez antes.
 
 ***Jérôme Petazzoni***
 
